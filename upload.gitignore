@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (optional: ignore if you don't want to upload csv)
+# *.csv
+
+# OS
+.DS_Store
+Thumbs.db
