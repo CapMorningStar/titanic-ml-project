@@ -1,16 +1,9 @@
-# Python
-__pycache__/
-*.pyc
+*.csv
 .venv/
 venv/
-.env
-
-# Jupyter
+__pycache__/
+*.pyc
 .ipynb_checkpoints/
-
-# Data (optional: ignore if you don't want to upload csv)
-# *.csv
-
-# OS
-.DS_Store
+.env
 Thumbs.db
+.DS_Store
